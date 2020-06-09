@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="dk.innovasion.Main" />
-    <module name="Breakout" />
+    <module name="Breakout-clone" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="dk.innovasion.objects.*" />
